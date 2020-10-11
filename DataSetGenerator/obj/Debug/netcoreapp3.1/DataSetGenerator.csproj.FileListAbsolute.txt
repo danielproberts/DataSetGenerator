@@ -1,0 +1,13 @@
+C:\Users\daniel\source\repos\DataSetGenerator\DataSetGenerator\obj\Debug\netcoreapp3.1\DataSetGenerator.csprojAssemblyReference.cache
+C:\Users\daniel\source\repos\DataSetGenerator\DataSetGenerator\obj\Debug\netcoreapp3.1\DataSetGenerator.AssemblyInfoInputs.cache
+C:\Users\daniel\source\repos\DataSetGenerator\DataSetGenerator\obj\Debug\netcoreapp3.1\DataSetGenerator.AssemblyInfo.cs
+C:\Users\daniel\source\repos\DataSetGenerator\DataSetGenerator\obj\Debug\netcoreapp3.1\DataSetGenerator.csproj.CoreCompileInputs.cache
+C:\Users\daniel\source\repos\DataSetGenerator\DataSetGenerator\bin\Debug\netcoreapp3.1\DataSetGenerator.exe
+C:\Users\daniel\source\repos\DataSetGenerator\DataSetGenerator\bin\Debug\netcoreapp3.1\DataSetGenerator.deps.json
+C:\Users\daniel\source\repos\DataSetGenerator\DataSetGenerator\bin\Debug\netcoreapp3.1\DataSetGenerator.runtimeconfig.json
+C:\Users\daniel\source\repos\DataSetGenerator\DataSetGenerator\bin\Debug\netcoreapp3.1\DataSetGenerator.runtimeconfig.dev.json
+C:\Users\daniel\source\repos\DataSetGenerator\DataSetGenerator\bin\Debug\netcoreapp3.1\DataSetGenerator.dll
+C:\Users\daniel\source\repos\DataSetGenerator\DataSetGenerator\bin\Debug\netcoreapp3.1\DataSetGenerator.pdb
+C:\Users\daniel\source\repos\DataSetGenerator\DataSetGenerator\obj\Debug\netcoreapp3.1\DataSetGenerator.dll
+C:\Users\daniel\source\repos\DataSetGenerator\DataSetGenerator\obj\Debug\netcoreapp3.1\DataSetGenerator.pdb
+C:\Users\daniel\source\repos\DataSetGenerator\DataSetGenerator\obj\Debug\netcoreapp3.1\DataSetGenerator.genruntimeconfig.cache
